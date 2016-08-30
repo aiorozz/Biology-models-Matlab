@@ -1,4 +1,4 @@
-% Felicia Freeman
+% fefreeman
 % Homework 2
 % Problem 1
 % LPA model
