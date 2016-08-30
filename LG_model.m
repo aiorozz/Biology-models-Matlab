@@ -1,4 +1,4 @@
-% Felicia Freeman
+% fefreeman
 % Homework 2
 % Problem 4
 % Leslie Gower Model for Gause data for P aurelia and P caundatum
